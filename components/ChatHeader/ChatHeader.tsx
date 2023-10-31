@@ -13,7 +13,7 @@ export default function ChatHeader({}: Props) {
         <div className="max-w-3xl mx-auto px-4 flex items-center justify-between py-2">
           <div className="inline-flex items-center">
             <ChatIcon className="w-5 h-5" />
-            <h1 className="ml-2 font-semibold">Explore NFT Industry</h1>
+            <h1 className="ml-2 font-semibold">1Sight AI Space</h1>
           </div>
           <div className="inline-flex items-center space-x-3">
             <button
